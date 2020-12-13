@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryNode.cpp
+BinaryNode.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryNode.h
+Employee.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/Employee.h
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryNode.h
+memory
+-
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryNodeTree.cpp
+BinaryNodeTree.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryNodeTree.h
+iomanip
+-
+Employee.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/Employee.h
+BinaryNode.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryNode.h
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryNodeTree.h
+BinaryTreeInterface.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryTreeInterface.h
+BinaryNode.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryNode.h
+iostream
+-
+algorithm
+-
+memory
+-
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryTreeInterface.h
+BinaryNode.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/BinaryNode.h
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/BinaryTrees/Employee.h
+string
+-
+iostream
+-
+
